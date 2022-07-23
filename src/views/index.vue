@@ -57,6 +57,7 @@
           <template #icon><SearchOutlined /></template>
           查询
         </a-button>
+        <span style="margin-left: 50px;">github地址：<a href="https://github.com/forever-dzs/vue" target="_blank">https://github.com/forever-dzs/vue</a></span>
       </a-layout-header>
       <a-layout-content
         :style="{
